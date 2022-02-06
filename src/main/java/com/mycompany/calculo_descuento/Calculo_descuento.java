@@ -16,6 +16,7 @@ public class Calculo_descuento {
     private void muestra_resultado(double resultado) {
         // Pasaremos la expresión desc/100 a una variable local
         System.out.println(resultado);   // Crearemos un método que muestre el resultado
+        System.out.println("Código modificado");
     }
     private static final int valor_constante = 100;
 }
